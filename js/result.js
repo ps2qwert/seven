@@ -61,7 +61,7 @@
                     p=10;
                 }
             }
-
+            console.log("测试结束")
             points.push(p);
         }
         console.log(points);
